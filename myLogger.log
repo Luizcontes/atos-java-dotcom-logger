@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-17T21:20:25.589991614Z</date>
+  <millis>1666041625589</millis>
+  <nanos>991614</nanos>
+  <sequence>0</sequence>
+  <logger>LogApp</logger>
+  <level>INFO</level>
+  <class>src.main.java.atos.logger.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>My first log</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-17T21:21:31.972271831Z</date>
+  <millis>1666041691972</millis>
+  <nanos>271831</nanos>
+  <sequence>0</sequence>
+  <logger>LogApp</logger>
+  <level>INFO</level>
+  <class>src.main.java.atos.logger.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Program started!!!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-17T21:23:37.821896706Z</date>
+  <millis>1666041817821</millis>
+  <nanos>896706</nanos>
+  <sequence>0</sequence>
+  <logger>LogApp</logger>
+  <level>INFO</level>
+  <class>src.main.java.atos.logger.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Program started!!!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-17T21:24:17.074095352Z</date>
+  <millis>1666041857074</millis>
+  <nanos>95352</nanos>
+  <sequence>0</sequence>
+  <logger>LogApp</logger>
+  <level>INFO</level>
+  <class>src.main.java.atos.logger.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Program started!!!</message>
+</record>
